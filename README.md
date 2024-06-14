@@ -1,4 +1,14 @@
-## App
+## Loyalty and Reward Point System
+
+- Customer
+- Record
+    - [Customer]
+    - datetime
+    - points
+    - expires_in
+    - expired?
+    - description (item/serviço pelo qual geral o ponto)
+
 
 -
 
